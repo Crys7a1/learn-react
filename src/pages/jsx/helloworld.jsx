@@ -7,7 +7,7 @@ class A extends Component {
       num: 1,
     }
   }
-
+  //xx
   componentDidMount() {
     console.log('----页面渲染完成')
     this.refs.box.style.color = 'red'
