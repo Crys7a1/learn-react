@@ -4,7 +4,7 @@ const ele = (
     <a href="www.baidu.com">baidu</a>
   </div>
 )
-
+//X
 const view = React.createElement('div', { className: 'cs', title: 'cs' }, [
   React.createElement('span', { key: 1 }, 'hello'),
   React.createElement('a', { href: 'www.baidu.com,key:2' }, 'cs'),

@@ -7,7 +7,7 @@ class A extends Component {
       num: 1,
     }
   }
-  //xx
+  //xxx
   componentDidMount() {
     console.log('----页面渲染完成')
     this.refs.box.style.color = 'red'
@@ -34,5 +34,5 @@ class A extends Component {
 function B() {
   return <h1>函数式组件</h1>
 }
-
+//xx
 export default A

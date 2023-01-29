@@ -4,7 +4,7 @@ const title = 'cs'
 function fullname(user) {
   return `${user.firstname} ${user.lastname}`
 }
-
+//X
 const ele = (
   <div>
     <h1>hello</h1>
